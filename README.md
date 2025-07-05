@@ -1,2 +1,1 @@
-# viraltoge
-viraltoge
+# [viraltoge](https://viraltoge.pages.dev)
